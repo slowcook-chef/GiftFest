@@ -26,6 +26,9 @@
 # Visual Studio cache directory
 /GiftFest/.vs/
 
+# Vscode cache directory
+/GiftFest/.vscode/
+
 # Gradle cache directory
 /GiftFest/.gradle/
 
@@ -70,3 +73,6 @@
 # Temporary auto-generated Android Assets
 /GiftFest/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /GiftFest/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Art pipeline 
+/ArtPipeline/
